@@ -1,4 +1,4 @@
-package Collections;
+package JavaCollections;
 
 import java.util.LinkedList;
 import java.util.Scanner;

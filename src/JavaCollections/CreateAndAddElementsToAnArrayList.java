@@ -1,8 +1,7 @@
-package Collections;
+package JavaCollections;
 
 import java.util.ArrayList;
 /* ex. 1 Create a program to create and add elements to an arraylist.*/
-import java.util.ArrayList;
 
 public class CreateAndAddElementsToAnArrayList {
     public static void main(String[] args) {
